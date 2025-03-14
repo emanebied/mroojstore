@@ -1,0 +1,15 @@
+# تجاهل إعدادات القاعدة
+wp-config.php
+
+# تجاهل الملفات المرفوعة
+wp-content/uploads/
+
+# تجاهل ملفات الكاش والتحديثات
+wp-content/cache/
+wp-content/upgrade/
+
+# تجاهل ملفات النظام
+*.log
+*.DS_Store
+node_modules/
+vendor/
