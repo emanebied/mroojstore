@@ -13,3 +13,6 @@ wp-content/upgrade/
 *.DS_Store
 node_modules/
 vendor/
+# استثناء النسخ الاحتياطية من قاعدة البيانات
+database.sql
+*.sql
